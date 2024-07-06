@@ -22,7 +22,8 @@ Weather_2 is a comprehensive application designed to fetch and store historical 
 
 1. **Clone the repository**:
    https://github.com/ganeevsingh18/weather_2.git
-3. 2. **Open the project in Android Studio**:
+
+2. **Open the project in Android Studio**:
 - Ensure Android Studio is updated to the latest version.
 - Open the project folder as an existing Android Studio project.
 
