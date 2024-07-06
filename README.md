@@ -21,3 +21,35 @@ Weather_2 is a comprehensive application designed to fetch and store historical 
 ## Setup and Installation
 
 1. **Clone the repository**:
+   https://github.com/ganeevsingh18/weather_2.git
+3. 2. **Open the project in Android Studio**:
+- Ensure Android Studio is updated to the latest version.
+- Open the project folder as an existing Android Studio project.
+
+3. **Build the project**:
+- Use Gradle to build the project and resolve dependencies.
+
+4. **Run the application**:
+- Run on a physical device or emulator.
+
+## Usage
+
+1. **Launch the application**:
+- Start the app and navigate to the main screen.
+
+2. **Enter Date and Location**:
+- Input the required date and location to fetch weather data.
+
+3. **View Weather Data**:
+- The app displays maximum and minimum temperatures for the selected date.
+- For future dates, view predicted temperatures based on historical averages.
+
+## Contributions
+
+- Contributions are welcome. Please create a pull request with your proposed changes.
+
+## License
+
+- This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
