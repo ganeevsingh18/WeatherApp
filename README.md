@@ -13,10 +13,10 @@ Weather_2 is a comprehensive application designed to fetch and store historical 
 
 ## Technical Implementation
 
-- **Programming Languages**: Kotlin/Java
-- **Database**: SQLite for local storage
-- **API**: Utilizes JSON-based REST API for weather data
-- **UI Composition**: XML layouts with appropriate ID linking for dynamic updates
+- **Programming Languages**: Kotlin
+- **Database**: ROOM database for local storage
+- **API**: Utilizes JSON-based Open-Meteo API for weather data
+- **UI Composition**: Jetpack Compose layouts 
 
 ## Setup and Installation
 
