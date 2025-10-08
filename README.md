@@ -1,7 +1,7 @@
-# Weather History App - weather_2
+# Weather History App - WeatherApp
 
 ## Description
-Weather_2 is a comprehensive application designed to fetch and store historical weather data for any given location and date. Utilizing a free weather API, the app provides users with maximum and minimum temperature data which is then stored in a local database for offline access.
+WeatherApp is a comprehensive application designed to fetch and store historical weather data for any given location and date. Utilizing a free weather API, the app provides users with maximum and minimum temperature data which is then stored in a local database for offline access.
 
 ## Features
 
@@ -21,7 +21,7 @@ Weather_2 is a comprehensive application designed to fetch and store historical 
 ## Setup and Installation
 
 1. **Clone the repository**:
-   https://github.com/ganeevsingh18/weather_2.git
+   https://github.com/ganeevsingh18/WeatherApp.git
 
 2. **Open the project in Android Studio**:
 - Ensure Android Studio is updated to the latest version.
