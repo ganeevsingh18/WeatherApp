@@ -1,4 +1,4 @@
-# Weather History App – WeatherApp
+# WeatherApp
 
 ## Description
 WeatherApp is an Android application that retrieves and stores **historical weather data** for any location and date using the free **Open-Meteo API**. The app saves maximum and minimum temperature data in a local **ROOM database**, ensuring offline access. For future dates, it applies an **ARIMA model** trained on the past 10 years of data to predict temperatures.
